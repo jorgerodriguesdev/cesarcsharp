@@ -13,7 +13,6 @@ namespace CriptografiaCesar
         {
             string crypt = "", decrypt = "";
             int numCar = 0, num = 0, escolha;
-            WriteLine("----------------------- Opções --------------------------------");
             Console.WriteLine("Tecle 1 para criptografar!");
             Console.WriteLine("Tecle 2 para descriptografar!");
             Console.WriteLine("Tecle 3 para encerrar a aplicação!");
